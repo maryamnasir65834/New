@@ -1,0 +1,14 @@
+C:\Users\5619\Desktop\TestToday\bin\Debug\net8.0\TestToday.exe
+C:\Users\5619\Desktop\TestToday\bin\Debug\net8.0\TestToday.deps.json
+C:\Users\5619\Desktop\TestToday\bin\Debug\net8.0\TestToday.runtimeconfig.json
+C:\Users\5619\Desktop\TestToday\bin\Debug\net8.0\TestToday.dll
+C:\Users\5619\Desktop\TestToday\bin\Debug\net8.0\TestToday.pdb
+C:\Users\5619\Desktop\TestToday\obj\Debug\net8.0\TestToday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5619\Desktop\TestToday\obj\Debug\net8.0\TestToday.AssemblyInfoInputs.cache
+C:\Users\5619\Desktop\TestToday\obj\Debug\net8.0\TestToday.AssemblyInfo.cs
+C:\Users\5619\Desktop\TestToday\obj\Debug\net8.0\TestToday.csproj.CoreCompileInputs.cache
+C:\Users\5619\Desktop\TestToday\obj\Debug\net8.0\TestToday.dll
+C:\Users\5619\Desktop\TestToday\obj\Debug\net8.0\refint\TestToday.dll
+C:\Users\5619\Desktop\TestToday\obj\Debug\net8.0\TestToday.pdb
+C:\Users\5619\Desktop\TestToday\obj\Debug\net8.0\TestToday.genruntimeconfig.cache
+C:\Users\5619\Desktop\TestToday\obj\Debug\net8.0\ref\TestToday.dll
